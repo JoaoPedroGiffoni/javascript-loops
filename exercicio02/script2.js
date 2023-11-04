@@ -1,0 +1,1 @@
+let altura = prompt("digite sua altura usando . para separar")
