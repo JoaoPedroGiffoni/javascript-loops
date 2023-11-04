@@ -12,5 +12,5 @@ for (let i = 1; i < 16; i++) {
     }
 }
 
-alert(maior_altura)
-alert(menor_altura)
+alert(maior_altura);
+alert(menor_altura);
